@@ -1,0 +1,3 @@
+C:/Users/Youssef/Downloads/Q2 Nim/cmake-build-debug/CMakeFiles/Q2_Nim.dir
+C:/Users/Youssef/Downloads/Q2 Nim/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Youssef/Downloads/Q2 Nim/cmake-build-debug/CMakeFiles/rebuild_cache.dir

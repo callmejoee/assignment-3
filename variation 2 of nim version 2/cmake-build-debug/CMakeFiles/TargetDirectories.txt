@@ -1,0 +1,3 @@
+C:/Users/Youssef/Downloads/variation 2 of nim version 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Youssef/Downloads/variation 2 of nim version 2/cmake-build-debug/CMakeFiles/variation_2_of_nim_version_2.dir
+C:/Users/Youssef/Downloads/variation 2 of nim version 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

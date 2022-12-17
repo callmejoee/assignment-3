@@ -1,0 +1,56 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+// vector to store the dictionary words
+vector<string> dictVector;
+
+// read the dictionary file and put the words in the vector
+void readDictFile() {
+
+}
+
+
+
+
+//// function to check if a word is in the dictionary
+//int is_inDictionary(string &word) {
+//    for (int i = 0; dictVector.size() ; i++) {
+//        if (dictVector[i] == word) {
+//            return 1;
+//        }
+//    }
+//    return 0;
+//}
+//
+//// function to check if a word is in the dictionary
+//
+//void wordbreak(string &word, string result){
+//    for (int i = 1; i <= word.length(); i++){
+//        string prefix = word.substr(0, i);
+//        if (is_inDictionary(prefix)) {
+//            if (i == word.length()) {
+//                result += prefix;
+//                cout << result << endl;
+//                return;
+//            }
+//            wordbreak(word.substr(i, word.length() - i), result + prefix + " ");
+//        }
+//    }
+//}
+int main(){
+//    string word;
+    ifstream dict("dictionary.txt");
+    string word;
+    while (!dict.eof()) {
+        dict >> word;
+        dictVector.push_back(word);
+    }
+//    cout << "Enter the sentence to be broken: ";
+//    cin >> word;
+//    wordbreak(word, "");
+//    return 0;
+//for(int i = 0; i < 10; i++){
+    //   cout << dictVector[i] << endl;
+//}
+
+}
